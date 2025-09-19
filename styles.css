@@ -6,18 +6,14 @@
 
 
 body {
-    color: white;
+    color: lightyellow;
 }
-
-
-
-
 
 /* ------------------------------- Base Styles: don't change this!  -------------------------------- */
 
 body {
     background-color: hsl(212, 36%, 90%);
-    color: hsl(210, 93%, 29%);
+    color: darkblue;
     text-align: center;
     font-family: 'Roboto Slab', Arial, serif;
     font-weight: 300;
@@ -46,7 +42,7 @@ h1 {
 }
 
 footer {
-    background-color: hsl(29, 100%, 47%);
+    background-color: hotpink;
     color: white;
     height: 100px;
     display: flex;
